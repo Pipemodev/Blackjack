@@ -17,3 +17,7 @@ html, body{
     left: 100px;
     margin-left: -75px;
 }
+#computadora-cartas, #Jugador-cartas{
+    height: 240px;
+
+}
